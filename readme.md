@@ -7,7 +7,7 @@
 * Django
 * React
 * D3
-* ~~MySql~~ changed to sqlite for development, and Postgres for production
+* Sqlite for development, and Postgres for production
 * Django Rest Framework
 * Redux
 * Material-UI
